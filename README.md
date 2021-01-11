@@ -6,3 +6,7 @@ and created a simple BMI calculator
 <p align="center">
   <img src="bmipic.png" width="500" title="hover text">
 </p>
+<br>
+<p align="center">
+  <img src="bmipic2.png" width="500" title="hover text">
+</p>
